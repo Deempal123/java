@@ -1,0 +1,16 @@
+java uses camel casing
+
+'class' and 'interface' should start with capital letter
+
+variable and method should start with small letters 
+
+constants - all capital ex- value of 'PIE(3.14)'
+// we follow this convention just to make our code much more readable
+camel casing
+it is used when we combine two or more words together ex- showMyFile
+//there is one more convention snake casing in which we use undescore to seperate two words when we are combining two or more words together
+//ex- show_my_file however it is not used in java
+example
+age - variable
+MY_DATA - constant
+Human() - constructor//why not method because it starts with capital letter
